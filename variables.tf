@@ -9,3 +9,4 @@ variable "tags" {
         env     = "training"
     }
 }
+
